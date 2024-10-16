@@ -52,15 +52,15 @@ Esperamos identificar as principais variáveis que afetam o preço dos diamantes
 
 ## Dicionário de dados
 
-| Nome da Coluna | Nome em Português | Tipo de Dado | Descrição                    | Valores Possíveis                                     |
-| -------------- | ----------------- | ------------ | ---------------------------- | ----------------------------------------------------- |
-| carat          | quilate           | float        | Peso do diamante em quilates | 0.2 ---- 5.01                                         |
-| cut            | corte             | string       | Qualidade do corte           | Fair, Good, Very Good, Premium, Ideal                 |
-| color          | cor               | string       | Cor do diamante              | from D (best) - J (worst)                             |
-| clarity        | clareza           | string       | Clareza do diamante          | I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best) |
-| depth          | profundidade      | float        | Profundidade do diamante     | = z / mean(x, y) = 2 \* z / (x + y)(43-79)            |
-| table          | propoção          | float        | Proporção base vs topo       | 43.0 - 95.0                                           |
-| price          | preço             | int          | Preço do diamante em USD     | $326 ---- $18,823                                     |
-| x              | comprimento       | float        | Comprimento em mm            | length in mm (0--10.74)                               |
-| y              | largura           | float        | Largura em mm                | width in mm (0--58.9)                                 |
-| z              | altura            | float        | Altura em mm                 | depth in mm (0--31.8)                                 |
+| Nome da Coluna | Nome em Português | Tipo de Dado  | Descrição                    | Valores Possíveis                                     |
+| -------------- | ----------------- | ------------- | ---------------------------- | ----------------------------------------------------- |
+| carat          | quilate           | float(quant)  | Peso do diamante em quilates | 0.2 ---- 5.01                                         |
+| cut            | corte             | string(quali) | Qualidade do corte           | Fair, Good, Very Good, Premium, Ideal                 |
+| color          | cor               | string(quali) | Cor do diamante              | from D (best) - J (worst)                             |
+| clarity        | clareza           | string(quali) | Clareza do diamante          | I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best) |
+| depth          | profundidade      | float(quanti) | Profundidade do diamante     | = z / mean(x, y) = 2 \* z / (x + y)(43-79)            |
+| table          | propoção          | float(quanti) | Proporção base vs topo       | 43.0 - 95.0                                           |
+| price          | preço             | int(quanti)   | Preço do diamante em USD     | $326 ---- $18,823                                     |
+| x              | comprimento       | float(quanti) | Comprimento em mm            | length in mm (0--10.74)                               |
+| y              | largura           | float(quanti) | Largura em mm                | width in mm (0--58.9)                                 |
+| z              | altura            | float(quanti) | Altura em mm                 | depth in mm (0--31.8)                                 |
