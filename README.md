@@ -12,7 +12,7 @@ Por ser a lapidação preferida dos consumidores, o formato redondo é a mais es
 
 Neste projeto, vamos abordar as seguintes questões:
 
-<div align="center">
+<div align=" ">
 
 - Quais fatores mais influenciam o preço de um diamante de lapidação redonda?
 - Como podemos usar esses fatores para prever com precisão o valor de novos diamantes no mercado?
@@ -28,7 +28,7 @@ Neste projeto, vamos abordar as seguintes questões:
 
 O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os seguintes passos:
 
-<div align = "center">
+<div align = " ">
 
 - Entendimento de negócio
 - Entendimento de dados
