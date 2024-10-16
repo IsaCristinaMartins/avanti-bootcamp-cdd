@@ -1,4 +1,8 @@
-### Análise dos preços de mais de 50.000 diamantes de lapidação redonda
+## Análise dos preços de mais de 50.000 diamantes de lapidação redonda
+
+<p align="center">
+  <img src="https://usagif.com/wp-content/uploads/snow-white-56.gif" alt=" " />
+</p>
 
 ![ ](https://usagif.com/wp-content/uploads/snow-white-56.gif)
 
