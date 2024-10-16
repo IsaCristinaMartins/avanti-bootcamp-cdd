@@ -49,3 +49,18 @@ O projeto também é dividido em duas entregas, a saber:
 ## Resultados Esperados
 
 Esperamos identificar as principais variáveis que afetam o preço dos diamantes e criar um modelo preditivo que permita prever o valor de novos diamantes no mercado com alta precisão. Isso fornecerá informações úteis tanto para consumidores, investidores e joalheiros.
+
+## Dicionário de dados
+
+| Nome da Coluna | Nome em Português | Tipo de Dado | Descrição                    | Valores Possíveis                                     |
+| -------------- | ----------------- | ------------ | ---------------------------- | ----------------------------------------------------- |
+| carat          | quilate           | float        | Peso do diamante em quilates | 0.2 ---- 5.01                                         |
+| cut            | corte             | string       | Qualidade do corte           | Fair, Good, Very Good, Premium, Ideal                 |
+| color          | cor               | string       | Cor do diamante              | from D (best) - J (worst)                             |
+| clarity        | clareza           | string       | Clareza do diamante          | I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best) |
+| depth          | profundidade      | float        | Profundidade do diamante     | = z / mean(x, y) = 2 \* z / (x + y)(43-79)            |
+| table          | propoção          | float        | Proporção base vs topo       | 43.0 - 95.0                                           |
+| price          | preço             | int          | Preço do diamante em USD     | $326 ---- $18,823                                     |
+| x              | comprimento       | float        | Comprimento em mm            | length in mm (0--10.74)                               |
+| y              | largura           | float        | Largura em mm                | width in mm (0--58.9)                                 |
+| z              | altura            | float        | Altura em mm                 | depth in mm (0--31.8)                                 |
