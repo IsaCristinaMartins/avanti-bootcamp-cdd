@@ -39,7 +39,7 @@ O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os segu
 
 O projeto também é dividido em duas entregas, a saber:
 
-<div align = "center">
+<div align = " ">
 
 - Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
 - Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
