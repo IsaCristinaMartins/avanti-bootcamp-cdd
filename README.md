@@ -14,9 +14,10 @@ Neste projeto, vamos abordar as seguintes questões:
 
 <div align=" ">
 
-- Quais fatores mais influenciam o preço de um diamante de lapidação redonda?
-- Como podemos usar esses fatores para prever com precisão o valor de novos diamantes no mercado?
-- Existe uma tendência observável na valorização ou depreciação dos preços de diamantes ao longo dos anos?
+- 2.1: Análise da relação entre preço, corte, cor e clareza do diamante.
+- 2.2: A influência entre peso (carat), preço e corte do diamante.
+- 2.3: A influência das proporções (depth e table) no preço.
+
 
 </div>
 
