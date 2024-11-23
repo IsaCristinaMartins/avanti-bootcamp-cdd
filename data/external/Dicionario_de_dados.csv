@@ -1,12 +1,12 @@
 
-Variável,Tradução,Descrição,Espectro de opções,Tipo,Subtipo
-Carat,Quilate (ct),Peso do diamante em quilates,0.2 ---- 5.01 ct,Quantitativo,Contínua
-Cut,Corte,Qualidade do corte,"Fair, Good, Very Good, Premium, Ideal",Qualitativo,Ordinal
-Color,Cor,Cor do diamante,D (best) - J (worst),Qualitativo,Ordinal
-Clarity,Clareza,Clareza do diamante,"1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best)",Qualitativo,Ordinal
-Depth,Profundidade,Profundidade do diamante,"Valor obtido pela equação ( percentual de profundidade total  = z / mean(x, y) = 2 \* z / (x + y)(43-79) )",Quantitativo,Contínua
-Table,Proporção ,Proporção base  vs    topo,43.0 - 95.0,Quantitativo,Contínua
-Price,Preço ,Valor do diamante em USD,"$326 ---- $18,823",Quantitativo,Discretas
-X,Comprimento ,Comprimento em milímetros (mm),0--10.74 mm,Quantitativo,Contínua
-Y,Largura,Largura em milímetros(mm),0--58.9 mm,Quantitativo,Contínua
-Z,Altura,Altura em milímetros (mm),0--31.8 mm,Quantitativo,Contínua
+Variavel,Tradução,Descrição,Espectro de opções,Tipo,Subtipo
+carat,Quilate (ct),Peso do diamante em quilates,0.2 ---- 5.01 ct,Quantitativo,Continua
+cut,Corte,Qualidade do corte,"Fair, Good, Very Good, Premium, Ideal",Qualitativo,Ordinal
+color,Cor,Cor do diamante,D (best) - J (worst),Qualitativo,Ordinal
+clarity,Clareza,Clareza do diamante,"1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best)",Qualitativo,Ordinal
+depth,Profundidade,Profundidade do diamante,"Valor obtido pela equação ( percentual de profundidade total  = z / mean(x, y) = 2 \* z / (x + y)(43-79) )",Quantitativo,Continua
+table,Proporção ,Proporção base  vs    topo,43.0 - 95.0,Quantitativo,Continua
+price,Preço ,Valor do diamante em USD,"$326 ---- $18,823",Quantitativo,Discreta
+x,Comprimento ,Comprimento em milímetros (mm),0--10.74 mm,Quantitativo,Continua
+y,Largura,Largura em milímetros(mm),0--58.9 mm,Quantitativo,Continua
+z,Altura,Altura em milímetros (mm),0--31.8 mm,Quantitativo,Continua
